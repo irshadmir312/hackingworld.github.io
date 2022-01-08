@@ -5,8 +5,8 @@ clear
 
 echo ""
 echo ""
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/HYDRAGAMING4U
+echo " follow me on Instagram 🔔 " | lolcat
+xdg-open https://instagram.com/irshadmir312?utm_medium=copy_link
 echo ""
 
 echo -e "\e[101m Press Enter \e[0m"
@@ -15,23 +15,23 @@ read a1
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..." | irshad
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..." | irshad
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..." | irshad
 sleep 1
 clear
 
-toilet -f future "TECH COCHI" | lolcat
+toilet -f future "MIR IRSHAD" | lolcat
 echo "-------------------------------------------------------" | lolcat
-echo   "Created  : TECH COCHI $white" |lolcat
-echo   "Contact  : Instagram.com/tech_code_2 $white" |lolcat
-echo   "YouTube  : TECH COCHI $white" |lolcat
+echo   "Created  : MIR IRSHAD $white" |lolcat
+echo   "Contact  : +918491975824 $white" |lolcat
+echo   "INSTAGRAM : irshadmir312 $white" |lolcat
 echo "-------------------------------------------------------" | lolcat
 
 trap ctrl_c INT
@@ -41,7 +41,7 @@ echo  "Detected, Trying To Exit  ... "
 echo ""
 sleep 1
 echo ""
-echo "TECH-COCHI" | lolcat
+echo "KASHMIR" | SHIKASLAD KASHUR
 sleep 1
 exit
 }
