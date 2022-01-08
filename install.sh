@@ -1,25 +1,68 @@
 #!/bin/bash
-#code by Irshad kashmiri
-#follow me on instagram
-#https://instagram.com/irshadmir312?utm_medium=copy_link
-echo ""
-bash logo.sh
-bash about.sh
-sleep 3
-bash load.sh
-echo ""
-echo ""
-sleep 3
-xdg-open https://instagram.com/irshadmir312?utm_medium=copy_link
-echo " PLEASE WAIT 20 SECOND "
-sleep 20
+#installation
+
 clear
-apt update -y
-apt upgrade -y
-pkg intall php -y
-pkg inatall curl -y
-clear
+
+echo ""
+echo ""
+echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+xdg-open https://www.youtube.com/channel/HYDRAGAMING4U
+echo ""
+
+echo -e "\e[101m Press Enter \e[0m"
+read a1
+
 sleep 1
-xdg-open https://instagram.com/irshadmir312?utm_medium=copy_link
-echo " wait for 15 seconds "
+clear
+
+echo "Loading..." | lolcat
+sleep 1
+clear
+
+echo "Loading..." | lolcat
+sleep 1
+clear
+
+echo "Loading..." | lolcat
+sleep 1
+clear
+
+toilet -f future "TECH COCHI" | lolcat
+echo "-------------------------------------------------------" | lolcat
+echo   "Created  : TECH COCHI $white" |lolcat
+echo   "Contact  : Instagram.com/tech_code_2 $white" |lolcat
+echo   "YouTube  : TECH COCHI $white" |lolcat
+echo "-------------------------------------------------------" | lolcat
+
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo  "Detected, Trying To Exit  ... "
+echo ""
+sleep 1
+echo ""
+echo "TECH-COCHI" | lolcat
+sleep 1
+exit
+}
+
+apt update
+apt upgrade -y
+pkg install ruby -y 
+gem install toilet -y 
+pkg install lolcat
+pkg install figlet
+apt install git php openssh curl -y
+pkg install python2 -y 
+pkg install nano php -y
+pip2 install mechanize
+pip2 install --upgrade pip
+
+echo ""
+echo "CODE_BY_mir irshad kashmiri" | lolcat
+echo "________________________" | lolcat
+sleep 10
+echo " follow me on instagram "
+echo " set your browser "
+termux-open-url https://instagram.com/irshadmir312?utm_medium=copy_link
 echo ""
